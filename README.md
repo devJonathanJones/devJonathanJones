@@ -19,7 +19,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">It’s not a bug; it’s an undocumented feature.</h2></summary>
+    <summary><h2 style="display: inline-block"><em>"Everybody should learn to program a computer because it teaches you how to think."</em><br>- Steve Jobs</h2></summary>
   </ul>
 </div>
 
