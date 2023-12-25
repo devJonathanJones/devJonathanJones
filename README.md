@@ -25,8 +25,8 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **JavaScript, HTML and CSS**
-
+- 🔭 I’m currently working with **MERN** stack
+- 
 - 💬 Talk to me about **Programming, Gaming, Sports, or Psychology**
 
 - 📫 Feel free to reach out **devJonathanJones@gmail.com**
