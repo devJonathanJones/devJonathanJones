@@ -6,7 +6,7 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Jonathan</h1></summary>
   </ul>
-</div>
+</div> 
 
 
 <!--- snake -->
