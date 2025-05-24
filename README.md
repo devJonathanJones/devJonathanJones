@@ -27,9 +27,9 @@
 <!--Intro start-->
 - 🔭 I’m currently working with **MERN** stack
  
-- 💬 Talk to me about **Programming, Gaming, Sports, or Psychology**
+- 💬 Talk to me about **Programming, Fishing, Psychology, or Sports**
 
-- 📫 Feel free to reach out **devJonathanJones@gmail.com**
+- 📫 You can reach me at **devJonathanJones@gmail.com**
 
 <!--Intro end-->
 
