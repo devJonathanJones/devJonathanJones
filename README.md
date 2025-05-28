@@ -27,7 +27,7 @@
 <!--Intro start-->
 - 🔭 I’m currently working with **MERN** stack
  
-- 💬 Talk to me about **Programming, Fishing, Psychology, or Sports**
+- 🧠 I am interested in **Web Development, AI integration, Fly Fishing, and Psychology**
 
 - 📫 You can reach me at **devJonathanJones@gmail.com**
 
@@ -80,7 +80,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,github,html,js,react,mongodb,nodejs,linux,py,tailwind,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,react,mongodb,nodejs,linux,py,tailwind,vscode&perline=14" />
   </a>
 </p>
 
@@ -114,6 +114,5 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ----------------------------------------------------------------------
-Credit: [1010nishant](https://github.com/1010nishant)
 
-Last Edited on: 12/25/2023
+Last Edited on: 05.28.2025
